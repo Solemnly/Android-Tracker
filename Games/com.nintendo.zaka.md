@@ -5,12 +5,12 @@ https://play.google.com/store/apps/details?id=com.nintendo.zaka
 > Tracker
 ----
 
-Adjust
-Bugsnag
-Facebook Analytics
-Facebook Login
-Facebook Places
-Facebook Share
+Adjust  
+Bugsnag  
+Facebook Analytics  
+Facebook Login  
+Facebook Places  
+Facebook Share  
 Google Firebase Analytics
 
 ----
